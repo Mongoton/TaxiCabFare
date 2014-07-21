@@ -1,0 +1,6 @@
+c:\users\ngbenjam\documents\visual studio 2010\Projects\TaxiCabFare\TaxiCabFare\bin\TaxiCabFare.dll
+c:\users\ngbenjam\documents\visual studio 2010\Projects\TaxiCabFare\TaxiCabFare\bin\TaxiCabFare.pdb
+c:\users\ngbenjam\documents\visual studio 2010\Projects\TaxiCabFare\TaxiCabFare\bin\EntityFramework.dll
+c:\users\ngbenjam\documents\visual studio 2010\Projects\TaxiCabFare\TaxiCabFare\bin\EntityFramework.xml
+c:\users\ngbenjam\documents\visual studio 2010\Projects\TaxiCabFare\TaxiCabFare\obj\Debug\TaxiCabFare.dll
+c:\users\ngbenjam\documents\visual studio 2010\Projects\TaxiCabFare\TaxiCabFare\obj\Debug\TaxiCabFare.pdb
